@@ -1,6 +1,6 @@
 team : cheetars
 
-manager : Jslim
+manager : seo-young
 
 members:
 - kim
