@@ -1,8 +1,9 @@
 team : Lion
 
-manager : jinu
+manager : jinu321321
 
 members:
 - jinu
 - seoyoung
 - Dong-a
+- jinusiososos

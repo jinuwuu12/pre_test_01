@@ -4,3 +4,4 @@ manager : hi
 
 members:
 - hello
+- hello2

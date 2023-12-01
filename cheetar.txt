@@ -1,0 +1,9 @@
+team : cheetars
+
+manager : jinu02
+
+members:
+- kim
+- ha
+- u
+- hello

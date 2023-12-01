@@ -1,0 +1,8 @@
+team : Pumas
+
+manager : Jude
+
+members:
+- Carret
+-Fine
+-Apple
