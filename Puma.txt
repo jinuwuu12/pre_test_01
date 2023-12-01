@@ -2,6 +2,8 @@ team : Pumas
 
 manager : Jude
 
+coach  : hello
+
 members:
 - Carret
 -Fine

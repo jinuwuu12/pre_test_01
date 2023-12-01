@@ -2,7 +2,11 @@ team : Leopard
 
 manager : jinu321321
 
+<<<<<<< HEAD
 coach : jinusususu
+=======
+coach : jinuuuuu, asdfas';ldfka'sdf
+>>>>>>> add-coach
 
 members:
 - jinu

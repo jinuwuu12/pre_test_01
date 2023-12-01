@@ -1,6 +1,8 @@
 team : JInu
 
-manager : hi
+manager : hiiiiiiiiiiiiiiiiiiiii
+
+coach : Jslim
 
 members:
 - hello
