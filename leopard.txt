@@ -1,6 +1,8 @@
-team : Lion
+team : Leopard
 
 manager : jinu321321
+
+coach : jinusususu
 
 members:
 - jinu
