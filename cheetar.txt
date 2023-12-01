@@ -1,6 +1,6 @@
 team : cheetars
 
-manager : jinu02
+manager : Jslim
 
 members:
 - kim
