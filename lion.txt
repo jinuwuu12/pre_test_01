@@ -1,0 +1,6 @@
+team : Lion
+
+manager : jinu
+
+members:
+- jinu
