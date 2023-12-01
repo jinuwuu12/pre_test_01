@@ -4,3 +4,5 @@ manager : jinu
 
 members:
 - jinu
+- seoyoung
+- Dong-a
